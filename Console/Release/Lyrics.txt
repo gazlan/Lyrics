@@ -1,0 +1,7 @@
+-*-   Lyrics   *   Copyright (c) Gazlan, 2015   -*-
+
+Lyrics Transliterator
+
+Usage: Lyrics.com [wildcards]
+
+complains_n_suggestions direct to gazlan@yandex.ru
